@@ -1,0 +1,32 @@
+# Node modules
+node_modules/
+
+#logs
+npm-debug-log*
+
+#dotenvironment data
+.env
+#gcd key
+# gcd-key.json
+
+#cache
+
+.cache/
+dist/
+build/
+
+#uploded files (multer,gcp,temp files)
+# uploads/
+# upload/
+temp/
+storage/
+
+#  paystack
+paystack.key.json
+
+#inspiration sites
+1. https://dribbble.com/shots/20604115-LOOP-Sales-Dashboard
+2.https://dribbble.com/shots/19944744-ProXduct-E-commerce-Dashboard ---product
+3 https://dribbble.com/shots/23999179-E-commerce-Dashboard -- available/stock
+4 https://www.behance.net/gallery/224398891/E-Commerce-Dashboard-Concept -- final
+
