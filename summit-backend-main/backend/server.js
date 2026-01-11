@@ -43,6 +43,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 const allowedOrigins = [
   "http://localhost:5173",
   "https://summit-bank-backend-admin.onrender.com",
+  "https://summit-bank-backend-1.onrender.com",
   "https://summitinvestmentbank.vercel.app",
   "https://summit-backend-euew.onrender.com",
   "https://www.summitinvestmentglobal.com"
