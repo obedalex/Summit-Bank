@@ -3,7 +3,8 @@ import axios from "axios";
 
 const API = axios.create({
   // baseURL: "http://localhost:5001/api/admin", // 👈 base
-baseURL:"https://summit-admin-backend.onrender.com/api/admin",
+// baseURL:"https://summit-admin-backend.onrender.com/api/admin",(previously used)
+baseURL:"https://summit-bank-frontend.onrender.com/api/admin",
   withCredentials: true,
 });
 

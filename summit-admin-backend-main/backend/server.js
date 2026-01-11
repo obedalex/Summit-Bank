@@ -44,6 +44,7 @@ const allowedOrigins = [
   "http://localhost:5173",
   "https://summitinvestmentbank.vercel.app",
   "https://summit-backend-euew.onrender.com",
+  "https://summit-bank-backend-1.onrender.com",
   "https://www.summitinvestmentglobal.com",
   "https://managesummitinvestment.vercel.app"
   

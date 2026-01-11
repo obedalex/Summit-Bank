@@ -2,7 +2,9 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL:  "https://summit-backend-euew.onrender.com", // e.g. http://localhost:5000
+  // baseURL:  "https://summit-backend-euew.onrender.com",(previously used)
+  baseURL:  "https://summit-bank-backend-1.onrender.com",
+   // e.g. http://localhost:5000
     // baseURL: "http://localhost:5000",
 
   timeout: 30000,

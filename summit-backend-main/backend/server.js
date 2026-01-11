@@ -42,6 +42,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 // CORS
 const allowedOrigins = [
   "http://localhost:5173",
+  "https://summit-bank-backend-admin.onrender.com",
   "https://summitinvestmentbank.vercel.app",
   "https://summit-backend-euew.onrender.com",
   "https://www.summitinvestmentglobal.com"

@@ -5,7 +5,8 @@ import axios from "axios";
     AXIOS INSTANCE
 ============================================================ */
 const API = axios.create({
-  baseURL: "https://summit-backend-euew.onrender.com/api/banks",
+  // baseURL: "https://summit-backend-euew.onrender.com/api/banks",(previously used)
+  baseURL: "https://summit-bank-backend-1.onrender.com/api/banks",
   // baseURL: "http://localhost:5000/api/banks",
   timeout: 30000,
   withCredentials: true,
