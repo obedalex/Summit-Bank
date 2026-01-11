@@ -2,7 +2,7 @@ import axios from "axios";
 
 // Create Axios instance
 const API = axios.create({
-  baseURL: "https://summit-backend-euew.onrender.com/api",
+  baseURL: "https://summit-bank-backend-1.onrender.com",
   timeout: 30000,
   withCredentials: true
 });
